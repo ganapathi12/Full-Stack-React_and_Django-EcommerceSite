@@ -3,3 +3,4 @@ this is a e-commerce site completly built from scratch using Django as backend a
 
 I have deployed Django api in pythonanywhere: http://gana016.pythonanywhere.com/ and to access the admin panel: http://gana016.pythonanywhere.com/admin/login/?next=/admin/
 I have deployed the frontend react website in netlify: https://ecommerce-gana016.netlify.app/
+.

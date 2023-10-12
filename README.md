@@ -1,5 +1,7 @@
 # Full-Stack-React_and_Django-EcommerceSite
-this is a e-commerce site completly built from scratch using Django as backend and React as frontend, it is built with braintree Payment gateway. Everything is done from Scratch with Full user interface, it contains login,registering user seperate admin panel and payment gateway.
+This is an e-commerce site completely built from scratch using Django as the backend and React as the frontend, it is built with a Braintree Payment gateway. Everything is done from Scratch with a Full user interface, it contains login, registering user separate admin panel, and payment gateway.
 
-I have deployed Django api in pythonanywhere: http://gana016.pythonanywhere.com/ and to access the admin panel: http://gana016.pythonanywhere.com/admin/login/?next=/admin/
-I have deployed the frontend react website in netlify: https://ecommerce-gana016.netlify.app/
+I have deployed Django API in python anywhere: http://gana016.pythonanywhere.com/ and to access the admin panel:
+ -> http://gana016.pythonanywhere.com/admin/login/?next=/admin/
+I have deployed the frontend react website in Netlify: 
+ -> https://ecommerce-gana016.netlify.app/
